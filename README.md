@@ -19,4 +19,5 @@ This package supports
 7. Training multiple SAEs in parallel
 8. A variety of loss function customisations for avoiding dead features
 9. Warmup of the L1/L0 coefficient
+10. Caching activations to disk
 
